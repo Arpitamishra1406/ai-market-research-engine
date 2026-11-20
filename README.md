@@ -1,14 +1,3 @@
-# ai-market-research-engine
-AI-powered market research platform using LLMs, AI agents, and automated research workflows.
-
-## Live demo
-https://mckinsey-ai-market-research-engine-beta.vercel.app/
-
-## Presentation
-[AI Market Research & Strategy Engine (PPT)](docs/AI_Market_Research_Strategy_Engine.pptx)
-
-<div align="center">
-
 # AI Market Research Engine
 
 **An AI-powered market research platform that turns one question into a source-backed strategy report, using LLMs, AI agents and automated research workflows.**
