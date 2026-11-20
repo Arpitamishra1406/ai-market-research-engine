@@ -99,18 +99,7 @@ All agents read from and write to a shared database ("research memory").
 | Orchestration | LangGraph, Pydantic, Celery |
 | Hosting | Vercel (frontend), Render (backend) |
 
-## Team
 
-The project is split into six areas, shared by five team members.
-
-| Area | Main responsibilities | Team members |
-|---|---|---|
-| Frontend & UI | Interface, research input form, progress tracking, evidence review, report viewer | Subodh Kumar |
-| Backend & API | FastAPI backend, API endpoints, job management, workflow integration, error handling | Nihal Tripathi |
-| AI Planner & Orchestration | Research planner, LangGraph workflow, agent coordination, retries and state management | Subodh Kumar, Nihal Tripathi, Akash Singh, Arpita Pandey, Amit Karmakar |
-| Web Research & Extraction | Web search, content extraction, structured evidence, source metadata | Akash Singh, Nihal Tripathi |
-| Database & Validation | Database schema, evidence validation, conflict detection, research memory | Arpita Pandey |
-| Analytics, Reporting & QA | Data analysis, charts, report generation, testing and QA, deployment docs, demo video | Amit Karmakar |
 
 ## Repository Structure
 
